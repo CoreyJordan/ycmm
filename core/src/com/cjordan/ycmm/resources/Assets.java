@@ -20,7 +20,7 @@ public class Assets {
     public static final String MED_FONT = "medFont.ttf";
     public static final String LARGE_FONT = "largeFont.ttf";
 
-    public AssetManager manager() {
+    public AssetManager getManager() {
         return manager;
     }
 
